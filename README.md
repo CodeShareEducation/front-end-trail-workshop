@@ -46,4 +46,4 @@ To be able to get your `certification`, you'll need:
 - Make the final article
 - Make the final project
 
-You can see a model of the certification [here](https://github.com/CodeShareEducation/front-end-trail-workshop/blob/master/)
+You can see a model of the certification [here](https://github.com/CodeShareEducation/front-end-trail-workshop/blob/master/CodeShare%20Certification%20Model.pdf)
