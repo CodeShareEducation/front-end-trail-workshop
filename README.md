@@ -6,7 +6,11 @@
 
 ## Modules
 
-The workshop is divided in three modules as follows.
+The workshop is divided in four modules as follows.
+
+### Tools
+- Git and Github
+- Code Editor (Sublime Text and Atom)
 
 ### Front-end Basics
 
