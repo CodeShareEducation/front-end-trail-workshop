@@ -35,6 +35,9 @@ The workshop is divided in four modules as follows.
 
 ## Workshop resources
 
+The resources will be in two languages: `portuguese` and `english`. The live classes will be
+separated in `portuguese` and `english` classes.
+
 - Live online classes
 - E-book made for the workshop
 - Exercises
